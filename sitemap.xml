@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <!-- 主页 -->
+    <url>
+        <loc>https://2026calendarprintable.me/index.html</loc>
+        <lastmod>2023-10-15</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+    
+    <!-- 月份页面锚点 -->
+    <url>
+        <loc>https://2026calendarprintable.me/index.html#january</loc>
+        <lastmod>2023-10-15</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://2026calendarprintable.me/index.html#february</loc>
+        <lastmod>2023-10-15</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://2026calendarprintable.me/index.html#march</loc>
+        <lastmod>2023-10-15</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://2026calendarprintable.me/index.html#april</loc>
+        <lastmod>2023-10-15</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://2026calendarprintable.me/index.html#may</loc>
+        <lastmod>2023-10-15</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://2026calendarprintable.me/index.html#june</loc>
+        <lastmod>2023-10-15</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://2026calendarprintable.me/index.html#july</loc>
+        <lastmod>2023-10-15</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://2026calendarprintable.me/index.html#august</loc>
+        <lastmod>2023-10-15</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://2026calendarprintable.me/index.html#september</loc>
+        <lastmod>2023-10-15</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://2026calendarprintable.me/index.html#october</loc>
+        <lastmod>2023-10-15</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://2026calendarprintable.me/index.html#november</loc>
+        <lastmod>2023-10-15</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://2026calendarprintable.me/index.html#december</loc>
+        <lastmod>2023-10-15</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <!-- 特殊日历部分 -->
+    <url>
+        <loc>https://2026calendarprintable.me/index.html#special</loc>
+        <lastmod>2023-10-15</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+    
+    <!-- FAQ部分 -->
+    <url>
+        <loc>https://2026calendarprintable.me/index.html#faq</loc>
+        <lastmod>2023-10-15</lastmod>
+        <changefreq>quarterly</changefreq>
+        <priority>0.6</priority>
+    </url>
+    
+    <!-- 隐私政策页面 -->
+    <url>
+        <loc>https://2026calendarprintable.me/privacy.html</loc>
+        <lastmod>2023-10-15</lastmod>
+        <changefreq>quarterly</changefreq>
+        <priority>0.5</priority>
+    </url>
+    
+    <!-- 服务条款页面 -->
+    <url>
+        <loc>https://2026calendarprintable.me/terms.html</loc>
+        <lastmod>2023-10-15</lastmod>
+        <changefreq>quarterly</changefreq>
+        <priority>0.5</priority>
+    </url>
+</urlset>
