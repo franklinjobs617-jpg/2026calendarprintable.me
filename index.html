@@ -720,8 +720,8 @@
         <div class="footer-content">
             <div class="footer-links">
                 <a href="#">About Us</a>
-                <a href="#">Privacy Policy</a>
-                <a href="#">Terms of Service</a>
+                <a href="privacy.html">Privacy Policy</a>
+                <a href="terms.html">Terms of Service</a>
                 <a href="#">Contact</a>
             </div>
             <p class="copyright">&copy; 2026 Calendar Printable. All country-specific calendars are free for personal use.</p>
@@ -975,30 +975,32 @@
                         
                         // Check if this is a holiday for selected country
                         const isHoliday = holidays[country] && holidays[country][year] && 
-                                          holidays[country][year][month] && holidays[country][year][month][dayCount];
+                                         holidays[country][year][month] && holidays[country][year][month][dayCount];
                         
+                        // Add holiday class if needed
                         if (isHoliday) {
                             dayCell.classList.add('holiday');
                         }
                         
-                        // Add day number
+                        // Create day number
                         const dayNumber = document.createElement('div');
-                        dayNumber.className = 'day-number';
+                        dayNumber.classList.add('day-number');
                         dayNumber.textContent = dayCount;
-                        dayCell.appendChild(dayNumber);
                         
-                        // Add day content area
+                        // Create day content container
                         const dayContent = document.createElement('div');
-                        dayContent.className = 'day-content';
+                        dayContent.classList.add('day-content');
                         
                         // Add holiday name if applicable
                         if (isHoliday) {
                             const holidayName = document.createElement('div');
-                            holidayName.className = 'holiday-name';
+                            holidayName.classList.add('holiday-name');
                             holidayName.textContent = holidays[country][year][month][dayCount];
                             dayContent.appendChild(holidayName);
                         }
                         
+                        // Combine elements
+                        dayCell.appendChild(dayNumber);
                         dayCell.appendChild(dayContent);
                         row.appendChild(dayCell);
                         

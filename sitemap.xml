@@ -8,7 +8,7 @@
         <priority>1.0</priority>
     </url>
     
-    <!-- 月份页面锚点 -->
+    <!-- 月份锚点 -->
     <url>
         <loc>https://2026calendarprintable.me/index.html#january</loc>
         <lastmod>2023-10-15</lastmod>
@@ -94,8 +94,8 @@
     <url>
         <loc>https://2026calendarprintable.me/index.html#faq</loc>
         <lastmod>2023-10-15</lastmod>
-        <changefreq>quarterly</changefreq>
-        <priority>0.6</priority>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
     </url>
     
     <!-- 隐私政策页面 -->
@@ -103,7 +103,7 @@
         <loc>https://2026calendarprintable.me/privacy.html</loc>
         <lastmod>2023-10-15</lastmod>
         <changefreq>quarterly</changefreq>
-        <priority>0.5</priority>
+        <priority>0.6</priority>
     </url>
     
     <!-- 服务条款页面 -->
@@ -111,6 +111,6 @@
         <loc>https://2026calendarprintable.me/terms.html</loc>
         <lastmod>2023-10-15</lastmod>
         <changefreq>quarterly</changefreq>
-        <priority>0.5</priority>
+        <priority>0.6</priority>
     </url>
 </urlset>
